@@ -10,3 +10,6 @@ An interactive **sales performance dashboard** built with *Ms Excel*
   3. **Sales by Region** – Visualize geographic distribution.
   4. **Top Customers** – View customers contributing the most revenue.
   5. **Payment Method Distribution** – Understand customer preferences.
+
+     ## 📸 Screenshot
+<img width="1362" height="595" alt="image" src="https://github.com/user-attachments/assets/314af438-6af1-412f-8b2e-9a164db4e380" />
